@@ -1,4 +1,4 @@
-# Raksha
+# Breast Cancer Prediction
 
 This project aims to predict the Chronic diseases.
 This uses Machine Learning technology.For predicting diseases this project uses "Linear Regression".
